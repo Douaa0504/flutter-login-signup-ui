@@ -1,0 +1,49 @@
+# -------------------------
+# Flutter / Dart essentials
+# -------------------------
+.dart_tool/
+.build/
+.pub/
+.packages
+.pub-cache/
+.pubspec.lock
+build/
+
+# -------------------------
+# Android / iOS build files
+# -------------------------
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+
+# -------------------------
+# IDE files
+# -------------------------
+.idea/
+.vscode/
+*.iml
+
+# -------------------------
+# Logs & system files
+# -------------------------
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# -------------------------
+# Generated files
+# -------------------------
+*.class
+*.jar
+
+# -------------------------
+# Misc
+# -------------------------
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
