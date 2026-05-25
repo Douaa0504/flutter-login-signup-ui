@@ -28,8 +28,9 @@ Experience the smooth animations and real-time validation in action:
 Showcasing real-time validation states (Success/Error) and user notifications via SnackBars.
 <p align="center">
   <img src="lib/AppScreens/login_invalid-email.png" width="300" alt="Invalid Email State">
-  <img src="lib/AppScreens/signup_invalide-inputs.png" width="300" alt="Invalid Signup State">
   <img src="lib/AppScreens/login_valide-email.png" width="300" alt="Valid Email State">
+  <img src="lib/AppScreens/signup_invalide-inputs.png" width="300" alt="Invalid Signup State">
+  <img src="lib/AppScreens/signup_valide-inputs.png" width="300" alt="Valid Signup State">
 </p>
 
 ## 🚀 Features
