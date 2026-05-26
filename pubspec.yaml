@@ -56,6 +56,13 @@ flutter:
 
   assets:
     - assets/profile.jpg
+    - assets/app-screens/demo_login-Signup_UI.mp4
+    - assets/app-screens/login.png
+    - assets/app-screens/signup.png
+    - assets/app-screens/login_invalid-email.png
+    - assets/app-screens/login_valide-email.png
+    - assets/app-screens/signup_invalide-inputs.png
+    - assets/app-screens/signup_valide-inputs.png
 
 
   # To add assets to your application, add an assets section, like this:

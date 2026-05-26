@@ -13,24 +13,24 @@ A professional, production-ready authentication UI boilerplate built with Flutte
 Experience the smooth animations and real-time validation in action:
 
 <p align="center">
-  <video src="lib/AppScreens/demo_login-Signup_UI.mp4" width="350" controls>
+  <video src="assets/app-screens/demo_login-Signup_UI.mp4" width="350" controls>
     Your browser does not support the video tag.
   </video>
 </p>
 
 ### Authentication Screens
 <p align="center">
-  <img src="lib/AppScreens/login.png" width="300" alt="Login Screen">
-  <img src="lib/AppScreens/signup.png" width="300" alt="Signup Screen">
+  <img src="assets/app-screens/login.png" width="300" alt="Login Screen">
+  <img src="assets/app-screens/signup.png" width="300" alt="Signup Screen">
 </p>
 
 ### Validation & Error Handling
 Showcasing real-time validation states (Success/Error) and user notifications via SnackBars.
 <p align="center">
-  <img src="lib/AppScreens/login_invalid-email.png" width="300" alt="Invalid Email State">
-  <img src="lib/AppScreens/login_valide-email.png" width="300" alt="Valid Email State">
-  <img src="lib/AppScreens/signup_invalide-inputs.png" width="300" alt="Invalid Signup State">
-  <img src="lib/AppScreens/signup_valide-inputs.png" width="300" alt="Valid Signup State">
+  <img src="assets/app-screens/login_invalid-email.png" width="300" alt="Invalid Email State">
+  <img src="assets/app-screens/login_valide-email.png" width="300" alt="Valid Email State">
+  <img src="assets/app-screens/signup_invalide-inputs.png" width="300" alt="Invalid Signup State">
+  <img src="assets/app-screens/signup_valide-inputs.png" width="300" alt="Valid Signup State">
 </p>
 
 ## 🚀 Features
@@ -92,7 +92,7 @@ The project follows a clean, modular structure:
    flutter:
      assets:
        - assets/profile.jpg
-       - lib/AppScreens/
+       - lib/app-screens/
    ```
 4. **Run the app:**
    ```bash
